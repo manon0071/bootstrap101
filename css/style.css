@@ -1,0 +1,93 @@
+/* Author Name: Tariq
+	Author Info:mail@coderstrust.com;
+*/
+
+/* 
+====Index====
+	1.Fusce at
+	2.AboutUs
+	3.Service
+	4.Blog
+	5.Contact us
+===============
+*/
+
+/* Global CSS */
+
+section {
+	padding: 50px 0px;
+}
+
+h1 {
+
+}
+
+h2 {
+	color: #fff;
+	font-size: 40px;
+
+}
+
+p {
+	font-size: 18px;
+	color: #fff;
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+
+
+/*Theme Css*/
+
+/*Navbar part Start*/
+
+.navbar-new {
+	background-color: #edeff1;
+	padding: 25px 0px;
+}
+
+.nav-link {
+	color: #161616!important;
+}
+
+.js-scroll-trigger.active {
+    background: #dd4b2b;
+    color: #fff!important;
+    border-radius: 38%;
+    padding: 6px 24px;
+}
+/*header part End*/
+
+/*hero section start*/
+
+.hero {
+	background:url(../img/banner.png)center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.hero-top {
+	padding-top: 310px;
+	text-align: center;
+
+}
+
+.one {
+	text-align: center;
+}
+
+.btn-cstm {
+    display: block;
+    margin: 0 auto;
+    background: #fff;
+    color: darkred;
+    border-radius: 14%;
+    padding: 7px 35px;
+}
+
+
+/*hero section end*/
+
+
